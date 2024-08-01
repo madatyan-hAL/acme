@@ -1,0 +1,1 @@
+{"version":1,"defects":{"BasketTest::testProductCatalogue":4,"BasketTest::testAddProduct":4,"BasketTest::testTotalWithOffer":4,"BasketTest::testAddAndTotal":3},"times":{"BasketTest::testProductCatalogue":0.001,"BasketTest::testAddProduct":0.003,"BasketTest::testTotalWithOffer":0.005,"BasketTest::testAddAndTotal":0.028,"BasketTest::testAddAndTotalPrice":0.027}}
